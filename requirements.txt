@@ -1,0 +1,4 @@
+Flask==3.0.0
+Flask-CORS==4.0.0
+gunicorn==21.2.0
+PyP6Xer==1.16.0
